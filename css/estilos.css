@@ -20,8 +20,7 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-color:
-    var(--color-header);
+  background-color: rgb(182, 207, 140);
 }
 
 .herramientas {
@@ -60,4 +59,9 @@ p label>* {
   font-size: 1rem;
   box-sizing: border-box;
   width: 100%;
+}
+
+button{
+  color: white;
+  background-color: #f8ac08;
 }
