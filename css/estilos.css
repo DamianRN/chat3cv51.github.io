@@ -65,3 +65,8 @@ button{
   color: white;
   background-color: #f8ac08;
 }
+
+.lista{
+  background-color: rgb(233, 220, 165);
+  font-style: italic;
+}
